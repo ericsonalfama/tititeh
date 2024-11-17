@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.29f0af1b.css",
+    "main.js": "/static/js/main.8ef49231.js",
+    "static/js/453.92ef5dc8.chunk.js": "/static/js/453.92ef5dc8.chunk.js",
+    "static/media/titieh_logo.png": "/static/media/titieh_logo.bc4db3fbe990c21304f5.png",
+    "static/media/allyssen.png": "/static/media/allyssen.5a09a85c08472ea7aec1.png",
+    "static/media/sven.png": "/static/media/sven.410a1adb9fc56a19d7f3.png",
+    "index.html": "/index.html",
+    "main.29f0af1b.css.map": "/static/css/main.29f0af1b.css.map",
+    "main.8ef49231.js.map": "/static/js/main.8ef49231.js.map",
+    "453.92ef5dc8.chunk.js.map": "/static/js/453.92ef5dc8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.29f0af1b.css",
+    "static/js/main.8ef49231.js"
+  ]
+}
